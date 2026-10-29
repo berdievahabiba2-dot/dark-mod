@@ -5,7 +5,7 @@
 @custom-variant dark (&:is(.dark *));
 
 
-@import "./components/Layout.css";
+@import "./Layout/Layout.css";
 
 html {
   min-width: 320px;
